@@ -1,0 +1,10 @@
+{
+  "name": "camel-js",
+  "version": "0.1.0",
+  "description": "Another React arch enemy telling \"I must provide better things than React.js :)\"",
+  "main": "src/index.ts",
+  "repository": "git+github.com/RokyXxX/camel-js",
+  "author": "RokyXxX <goofboiiahh@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
